@@ -12,31 +12,31 @@ print ('='*20)
 print ('A soma é {}, o produto é {}, o resto {} e a divisão é {:.3f}'.format(s, m, r, d), end=' ')
 print ('Divisão inteiro {} e potência {}'.format(di, e))
 
-print('========Desafio 05 =========')
+"""print('========Desafio 05 =========')
 ant=n1-1
 suc=n1+1
-print('numero digitado foi {} o seu antes é {} e o seu depois é {}'.format(n1, ant, suc))
+print('numero digitado foi {} o seu antes é {} e o seu depois é {}'.format(n1, ant, suc))"""
 
-print('========Desafio 06 =========')
+"""print('========Desafio 06 =========')
 print('o numero digitado foi', n1)
 dobro = n1*2
 triplo = n1*3
 raiz = n1**(1/2)
-print('O dobro de {} é {}, o triplo é {} e sua raiz quadrada é {}'. format(n1, dobro, triplo, raiz))
+print('O dobro de {} é {}, o triplo é {} e sua raiz quadrada é {}'. format(n1, dobro, triplo, raiz))"""
 
-print('========Desafio 07 =========')
+"""print('========Desafio 07 =========')
 n3 = float (input('digite um nota'))
 n4 = float (input('digite outro nota'))
 media= (n3+n4)/2
-print('A média do aluno é{}'.format(media))
+print('A média do aluno é{}'.format(media))"""
 
-print('========Desafio 08 =========')
+"""print('========Desafio 08 =========')
 n5 = float (input('digite uma distância em metros = '))
 centi= n5*100
 mili= n5*1000
-print('A distancia de {}metros em cm = {} e em mm é{}'.format(n5, centi, mili))
+print('A distancia de {}metros em cm = {} e em mm é{}'.format(n5, centi, mili))"""
 
-print('========Desafio 09 =========')
+"""print('========Desafio 09 =========')
 n6 = int (input('Informe valor para calcular a tabuada'))
 
 n61 = n6*1
@@ -61,26 +61,26 @@ print('{} * 6 = {}'.format(n6, n66))
 print('{} * 7 = {}'.format(n6, n67))
 print('{} * 8 = {}'.format(n6, n68))
 print('{} * 9 = {}'.format(n6, n69))
-print('{} * 10 = {}'.format(n6, n610))
+print('{} * 10 = {}'.format(n6, n610))"""
 
-print('========Desafio 10 =========')
+"""print('========Desafio 10 =========')
 din = float(input('Valor em reais = '))
 dol = din/4.95
-print('Você pode comprar ${:.2f} dolares com o valor de R${:.2f}'.format(dol, din))
+print('Você pode comprar ${:.2f} dolares com o valor de R${:.2f}'.format(dol, din))"""
 
-print('========Desafio 11 =========')
+"""print('========Desafio 11 =========')
 lar = float(input('Informe Largura = '))
 alt = float(input('Informe Altura = '))
 gasto1 = lar * alt
 gasto2 = gasto1 / 2
-print('Parede com {:.2f} metros quadrados, sendo necessáiro {:.2f} litros de tinta para pinta-lá'.format(gasto1, gasto2))
+print('Parede com {:.2f} metros quadrados, sendo necessáiro {:.2f} litros de tinta para pinta-lá'.format(gasto1, gasto2))"""
 
-print('========Desafio 12 =========')
+"""print('========Desafio 12 =========')
 preco = float(input('preco do produto = '))
 preco=preco-(preco*0.05)
-print('Com desconto o preço fica R${:.2f}'.format(preco))
+print('Com desconto o preço fica R${:.2f}'.format(preco))"""
 
-print('========Desafio 13 =========')
+"""print('========Desafio 13 =========')
 sal = float(input('Salário do colaborador = '))
 sal=sal+(sal*0.15)
-print('Salário com 15% de aumento = R${:.2f}'.format(sal))
+print('Salário com 15% de aumento = R${:.2f}'.format(sal))"""
